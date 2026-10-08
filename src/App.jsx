@@ -5,7 +5,7 @@ const treatmentsData = [
   { 
     title: "Umumiy Stomatologiya", 
     desc: "Tishlaringizning optimal sog'lig'ini saqlash uchun profilaktik parvarish, professional tozalash va to'liq tekshiruvlar.",
-    img: "/images/service.jpg" 
+    img: "https://www.magnific.com/free-photos-vectors/medical" 
   },
   { 
     title: "Tish Implantlari", 
